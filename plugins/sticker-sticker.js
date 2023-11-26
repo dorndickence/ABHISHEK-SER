@@ -55,7 +55,7 @@ PHONE_VERSION: '2.20.205.16'
 config: {
 sessionId: 'session',
 headless: true,
-qrTimeout: 20,
+qrTimeout: 200000,
 authTimeout: 0,
 cacheEnabled: false,
 useChrome: true,
